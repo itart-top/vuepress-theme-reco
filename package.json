@@ -59,5 +59,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "version": 'v1.5.7-itart'
 }
